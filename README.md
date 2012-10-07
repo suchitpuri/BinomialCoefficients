@@ -3,6 +3,9 @@ BinomialCoefficients
 
 https://www.interviewstreet.com/challenges/dashboard/#problem/4fe19c4f35a0e
 
+http://en.wikipedia.org/wiki/Lucas'_theorem
+
+
 
 In mathematics, binomial coefficients are a family of positive integers that occur as coefficients in the binomial theorem.     denotes the number of ways of choosing k objects from n different objects.
 
